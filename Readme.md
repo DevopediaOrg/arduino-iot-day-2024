@@ -38,7 +38,7 @@ This repository shares sufficient details of each demo so that others can try th
 
 ## Archived
 
-The following will not be presented live at the venue. Instead, see their pre-recorded videos.
+The following demos were submitted but will not be presented live at the venue. Instead, see their pre-recorded videos (if available).
 
 | Demo Title | About the Demo | Demo Presenters |
 | --- | --- | --- |
